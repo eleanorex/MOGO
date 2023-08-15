@@ -1,2 +1,2 @@
-# MOGO
+# https://eleanorex.github.io/MOGO/
  
